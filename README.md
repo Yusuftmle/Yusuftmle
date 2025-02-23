@@ -25,8 +25,9 @@ I'm a passionate Web Developer specializing in C# Blazor and AI Agent developmen
 
 ## 🏆 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Yusuftmle&repo=repo-name&theme=radical)](https://github.com/Yusuftmle/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Yusuftmle&repo=repo-name&theme=radical)](https://github.com/Yusuftmle/repo-name)
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Yusuftmle&repo=repo-name&theme=radical)]([https://github.com/Yusuftmle/repo-name](https://github.com/Yusuftmle/HotelRVProject.git))
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Yusuftmle&repo=repo-name&theme=radical)]([https://github.com/Yusuftmle/repo-name](https://github.com/Yusuftmle/HotelRVProject.git))
 
 ## 🔗 Connect with Me
 
