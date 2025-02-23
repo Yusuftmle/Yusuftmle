@@ -8,14 +8,13 @@ I'm a passionate Web Developer specializing in C# Blazor and AI Agent developmen
 - 💼 Currently working as a Web Developer at [Your Company].
 - 🌱 Always learning and improving my skills in Blazor, AI, and web development.
 - 💬 Ask me about C# Blazor, AI agent development, and web technologies.
-- 📫 How to reach me: [your_email@example.com]
-- 🌐 Visit my [website](https://yourwebsite.com) for more information.
+- 📫 How to reach me: [yussuf.temelll@gmail.com]
+
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: C#, JavaScript, Python
+- Programming Languages: C#
 - Web Development: Blazor, ASP.NET Core, HTML, CSS, JavaScript
-- AI & Machine Learning: TensorFlow, PyTorch, Scikit-learn
 - Databases: SQL Server, MySQL, PostgreSQL
 - Tools & Platforms: Visual Studio, Git, GitHub, Azure, Docker
 
