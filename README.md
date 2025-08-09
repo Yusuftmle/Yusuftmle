@@ -35,6 +35,15 @@ My goal is to create valuable solutions by embracing continuous learning, collab
 ![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-333?style=flat&logo=microsoft)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-333?style=flat&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-333?style=flat&logo=aspdotnet)
+![Blazor](https://img.shields.io/badge/-Blazor-333?style=flat&logo=blazor)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-333?style=flat&logo=entityframework)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoftsqlserver)
+![SignalR](https://img.shields.io/badge/-SignalR-333?style=flat&logo=microsoft)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+
 
 ---
 
@@ -47,7 +56,13 @@ My goal is to create valuable solutions by embracing continuous learning, collab
 - Building productivity and automation tools
 - Open source contribution and community building
 - Learning and mentoring
-
+- Algorithms & problem solving
+- Building productivity and automation tools using C# and .NET
+- Web and cross-platform app development with Blazor and ASP.NET Core
+- Real-time communication with SignalR
+- Containerization and deployment with Docker
+- Open source contribution and community building
+- Continuous learning and mentoring
 ---
 
 ## 📈 GitHub Stats
