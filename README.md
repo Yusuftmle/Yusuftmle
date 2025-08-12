@@ -83,9 +83,11 @@ My goal is to create valuable solutions by embracing continuous learning, collab
 
 ## 🌐 Social & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yusuf-temel-19722b2a3))
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yussuf.temelll@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yusftemell)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/yusufteml?public_mode=true)
+
 
 ---
 
@@ -102,4 +104,4 @@ My goal is to create valuable solutions by embracing continuous learning, collab
 
 ---
 
-*Last update: August 8, 2025*
+*Last update: August 12, 2025*
