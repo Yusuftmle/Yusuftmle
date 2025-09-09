@@ -20,6 +20,7 @@
 class YusufTemel:
     def __init__(self):
         self.name = "Yusuf Temel"
+
         self.role = "AI & Backend Developer"
         self.language_spoken = ["tr_TR", "en_US"]
         self.code = ["C#", "Python", ".NET", "AI/ML"]
@@ -33,7 +34,7 @@ me.say_hi()
 ```
 
 - 🔭 Currently working on **AI-powered network analysis** and **computer vision projects**
-- 🌱 Deep diving into **Microsoft Semantic Kernel** and **advanced AI orchestration**
+- 🌱 Deep diving into **Microsoft Semantic Kernel** and ** AI orchestration**
 - 💡 Passionate about solving **real-world problems** with innovative tech solutions
 - 🎯 Building the future, one algorithm at a time
 - ⚡ Fun fact: I can debug code faster than I can fix my sleep schedule! 😄
