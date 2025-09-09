@@ -69,7 +69,7 @@ My goal is to create valuable solutions by embracing continuous learning, collab
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Activity -->
+
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&count_private=true&theme=tokyonight)
 
 <!-- Top Languages -->
