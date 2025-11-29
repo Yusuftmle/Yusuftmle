@@ -77,37 +77,49 @@ Real-time object detection application using YOLO models.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
 
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yusuftmle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=Yusuftmle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+### 🔥 Contribution Stats
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com/?user=Yusuftmle&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
 ### 🔥 Contribution Streak
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusuftmle&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yusuftmle&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusuftmle&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusuftmle&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_title=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ### 🎖️ Profile Summary
 <div align="center">
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusuftmle&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusuftmle&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yusuftmle&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yusuftmle&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yusuftmle&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yusuftmle&theme=github_dark&utcOffset=3)
 
 </div>
 
