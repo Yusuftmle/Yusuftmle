@@ -77,8 +77,15 @@ Real-time object detection application using YOLO models.
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=percentile" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
+
+</div>
+
+### 🎖️ GitHub Rank & Level
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&show_rank=true&hide=issues" />
 
 </div>
 
