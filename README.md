@@ -76,23 +76,34 @@ Real-time object detection application using YOLO models.
 ## 📊 GitHub Stats & Rankings
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=percentile" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
+
+![Yusuf's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8)
 
 </div>
 
-### 🎖️ GitHub Rank & Level
+### 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&show_rank=true&hide=issues" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yusuftmle&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-### 🏆 GitHub Achievements
+### 🔥 GitHub Streak
+
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Yusuftmle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yusuftmle&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+![Yusuf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusuftmle&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
