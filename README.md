@@ -4,6 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yusuftmle&color=00d9ff&style=for-the-badge)](https://github.com/Yusuftmle)
 [![GitHub followers](https://img.shields.io/github/followers/Yusuftmle?style=for-the-badge&color=00d9ff)](https://github.com/Yusuftmle?tab=followers)
+[![GitHub Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=00d9ff&label=GitHub%20Rank&query=%24.rank.level&url=https%3A%2F%2Fapi.github-readme-stats.vercel.app%2Fapi%2Fusername%3Fusername%3DYusuftmle)](https://github.com/Yusuftmle)
 
 </div>
 
@@ -72,11 +73,42 @@ Real-time object detection application using YOLO models.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Rankings
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusuftmle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuftmle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yusuftmle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+### 🔥 Contribution Streak
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusuftmle&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusuftmle&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+### 🎖️ Profile Summary
+<div align="center">
+  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusuftmle&theme=tokyonight)
+
 </div>
 
 ---
@@ -113,5 +145,7 @@ Real-time object detection application using YOLO models.
 💡 *"Imagine. Try. Build. Share. Learn. Repeat."*
 
 ⭐ Don't forget to check out my projects!
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yusuftmle.Yusuftmle)
 
 </div>
